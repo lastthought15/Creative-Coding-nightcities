@@ -1,0 +1,16 @@
+{
+  "name": "fetch_images",
+  "version": "1.0.0",
+  "description": "webscraping satelite photos from cities at night",
+  "main": "index.js",
+  "scripts": {
+    "test": "--test"
+  },
+  "author": "David Lukert",
+  "license": "MIT",
+  "dependencies": {
+    "cheerio": "^1.0.0-rc.12",
+    "node-fetch": "^3.2.6",
+    "xlsx": "^0.18.5"
+  }
+}
